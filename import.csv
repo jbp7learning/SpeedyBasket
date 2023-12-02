@@ -1,0 +1,31 @@
+code,products,store,stock,image,price
+FM001,Fresh Apples,Fresh Mart,35,/img_src/apples.jpg,12.57
+KK002,Krusty Burger,Krusty Krab,84,/img_src/burger.jpg,9.23
+STG003,Stark Tech Gadget,Stark Industries Tech Store,71,/img_src/tech.jpg,14.92
+OD004,Organic Milk,Organic Delights,47,/img_src/milk.jpg,8.76
+SE005,Excalibur Sword,The Sword Emporium,63,/img_src/sword.jpg,17.34
+OWW006,Ollivanders Magic Wand,Ollivanders Wand Shop,92,/img_src/wand.jpg,19.81
+WCF007,Chocolate Delight,Wonka's Chocolate Factory,56,/img_src/chocolate.jpg,16.45
+ME008,Crystal Ball,Mystic Emporium,23,/img_src/crystal.jpg,7.14
+BHB009,Whole Wheat Bread,Bakery Haven,42,/img_src/bread.jpg,11.68
+WWW010,Joke Box,Weasleys' Wizard Wheezes,15,/img_src/joke.jpg,6.28
+OD011,Organic Yogurt,Organic Delights,62,/img_src/yogurt.jpg,11.79
+KF012,Krusty Fries,Krusty Krab,18,/img_src/fries.jpg,7.91
+WCF013,Chocolate Fantasy,Wonka's Chocolate Factory,77,/img_src/chocolate.jpg,15.34
+LWB014,Laughing Box,Weasleys' Wizard Wheezes,45,/img_src/laugh.jpg,12.87
+FPM015,Fresh Pears,Fresh Mart,93,/img_src/pears.jpg,20.16
+SEM016,Mystical Staff,The Sword Emporium,29,/img_src/staff.jpg,9.42
+OWB017,Enchanted Book,Ollivanders Wand Shop,51,/img_src/book.jpg,14.76
+BSD018,Sourdough Delight,Bakery Haven,75,/img_src/sourdough.jpg,16.89
+EMC019,Enchanting Crystal,Mystic Emporium,64,/img_src/enchant.jpg,14.73
+SHH020,Smart Home Hub,Stark Industries Tech Store,89,/img_src/smart_home.jpg,18.52
+CWC021,Caramel Bliss,Wonka's Chocolate Factory,37,/img_src/caramel.jpg,10.97
+GH022,Golden Honey,Fresh Mart,13,/img_src/honey.jpg,5.62
+SE023,Seafood Extravaganza,Krusty Krab,68,/img_src/seafood.jpg,14.28
+PWK024,Prankster's Kit,Weasleys' Wizard Wheezes,82,/img_src/prankster.jpg,17.65
+FG025,Futuristic Glasses,Stark Industries Tech Store,24,/img_src/glasses.jpg,8.07
+EW026,Ethereal Wand,Ollivanders Wand Shop,33,/img_src/ethereal_wand.jpg,10.19
+AY027,Almond Bliss Yogurt,Organic Delights,53,/img_src/almond_yogurt.jpg,12.45
+RBB028,Rustic Baguette,Bakery Haven,11,/img_src/baguette.jpg,5.15
+PFQ029,Phoenix Feather Quill,Ollivanders Wand Shop,46,/img_src/quill.jpg,11.94
+HC030,Healing Crystal,Mystic Emporium,57,/img_src/healing_crystal.jpg,77.11
